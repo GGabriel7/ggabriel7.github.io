@@ -1,65 +1,247 @@
 [
     {
-        "id": 8,
-        "nome": "Conjunto de Copos",
-        "valor": 50,
-        "imagem": "img/copos.png",
+        "id": 12,
+        "nome": "Assadeira Grande",
+        "valor": 79.90,
+        "imagem": "img/assadeira.webp",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 15,
+        "nome": "Cesto de Roupa Suja",
+        "valor": 99.90,
+        "imagem": "img/cesto.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 28,
+        "nome": "Utensílios Cozinha",
+        "valor": 104.90,
+        "imagem": "img/kitCozinha.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 29,
+        "nome": "Ventilador",
+        "valor": 205.90,
+        "imagem": "img/ventilador.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 22,
+        "nome": "Air Fryer",
+        "valor": 399.90,
+        "imagem": "img/airfryer.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 20,
+        "nome": "Cobertor Casal",
+        "valor": 179.90,
+        "imagem": "img/cobertor.jpg",
         "link": "https://youtube.com"
     },
     {
         "id": 1,
         "nome": "Conjunto de Pratos",
-        "valor": 50,
+        "valor": 219.90,
         "imagem": "img/pratos.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 1,
+        "nome": "Cafeteira Elétrica",
+        "valor": 179.90,
+        "imagem": "img/cafeteira.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 13,
+        "nome": "Sanduicheira",
+        "valor": 94.90,
+        "imagem": "img/sanduicheira.webp",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 18,
+        "nome": "Edredom Casal",
+        "valor": 299.90,
+        "imagem": "img/edredom.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 30,
+        "nome": "Microondas",
+        "valor": 649.90,
+        "imagem": "img/microondas.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 8,
+        "nome": "Forma de Vidro",
+        "valor": 84.90,
+        "imagem": "img/formaVidro.jpg",
         "link": "https://youtube.com"
     },
     {
         "id": 2,
         "nome": "Fogão",
-        "valor": 750,
+        "valor": 729.90,
         "imagem": "img/fogao.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 12,
+        "nome": "Lixeira Inox",
+        "valor": 94.90,
+        "imagem": "img/lixeira.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 14,
+        "nome": "Ferro de Passar",
+        "valor": 99.90,
+        "imagem": "img/ferro.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 12,
+        "nome": "Potes Herméticos",
+        "valor": 149.90,
+        "imagem": "img/potes.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 23,
+        "nome": "Jogo de Toalhas",
+        "valor": 129.90,
+        "imagem": "img/toalhas.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 16,
+        "nome": "Organizador Multiuso",
+        "valor": 82.90,
+        "imagem": "img/organizador.jpg",
         "link": "https://youtube.com"
     },
     {
         "id": 10,
         "nome": "Jogo de Panelas",
-        "valor": 400,
+        "valor": 649.90,
         "imagem": "img/panelas.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 24,
+        "nome": "Kit Tapetes Banheiro",
+        "valor": 114.90,
+        "imagem": "img/tapeteBanheiro.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 27,
+        "nome": "Kit Limpeza",
+        "valor": 169.90,
+        "imagem": "img/kitLimpeza.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 17,
+        "nome": "Jogo de Lençol",
+        "valor": 139.90,
+        "imagem": "img/jogoCama.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 11,
+        "nome": "Jogo de Talheres",
+        "valor": 129.90,
+        "imagem": "img/talheres.jpg",
         "link": "https://youtube.com"
     },
     {
         "id": 5,
         "nome": "Mesa para 4",
-        "valor": 650,
+        "valor": 619.90,
         "imagem": "img/mesa.png",
         "link": "https://youtube.com"
     },
     {
         "id": 4,
         "nome": "Máquina de Lavar",
-        "valor": 550,
+        "valor": 1149.90,
         "imagem": "img/maquinadelavar.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 21,
+        "nome": "Protetor de Colchão",
+        "valor": 119.90,
+        "imagem": "img/protetor.jpg",
         "link": "https://youtube.com"
     },
     {
         "id": 6,
         "nome": "Panela de Pressão",
-        "valor": 120,
+        "valor": 179.90,
         "imagem": "img/paneladepressao.png",
         "link": "https://youtube.com"
     },
     {
         "id": 9,
-        "nome": "Viagem",
-        "valor": 1900,
+        "nome": "Cota Viagem",
+        "valor": 999.90,
         "imagem": "img/viagem.png",
         "link": "https://youtube.com"
     },
     {
         "id": 3,
         "nome": "liquidificador",
-        "valor": 140,
+        "valor": 144.90,
         "imagem": "img/liquificador.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 19,
+        "nome": "Travesseiros",
+        "valor": 124.90,
+        "imagem": "img/travesseiro.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 26,
+        "nome": "Tapete para Sala",
+        "valor": 199.90,
+        "imagem": "img/tapeteSala.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 28,
+        "nome": "Tábua de Corte Grande",
+        "valor": 79.90,
+        "imagem": "img/tabuaCorte.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 267,
+        "nome": "Tábua de Passar",
+        "valor": 184.90,
+        "imagem": "img/tabuaRoupa.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 25,
+        "nome": "Cortinas",
+        "valor": 114.90,
+        "imagem": "img/cortinas.jpg",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 15,
+        "nome": "Varal de Chão",
+        "valor": 144.90,
+        "imagem": "img/varal.jpg",
         "link": "https://youtube.com"
     }
 ]
