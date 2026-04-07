@@ -48,3 +48,4 @@ document.getElementById('search').addEventListener('input', function () {
     // Exibir mensagem de "Nenhum produto encontrado"
     document.getElementById('not-found').style.display = hasResults ? 'none' : 'block';
 });
+
