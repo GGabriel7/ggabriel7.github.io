@@ -273,8 +273,38 @@
         <h2 class="text-center mb-5"><span class="fontMao">Lista de Presente</span></h2>
 
         <p class="text-center mb-5">
-        Queremos agradecer já por estar conosco nesse dia tão especial. Se desejar contribuir com nossa lista de presentes, fique à vontade para escolher algo que faça seu coração sorrir, assim como o nosso ao pensar em você. <strong>Opções de pagamento:</strong> PIX, cartão de crédito, débito e boleto.
+        Queremos agradecer já por estar conosco nesse dia tão especial. Se desejar contribuir com nossa lista de presentes, fique à vontade para escolher algo que faça seu coração sorrir, assim como o nosso ao pensar em você. <strong>Opções de pagamento:</strong> PIX, cartão de crédito, débito e boleto. Caso deseje, <strong>pode copiar a chave pix abaixo</strong> e realizar a transferência desejada.
       </p>
+
+      <div class="container text-center" style="margin-top: -40px; margin-bottom: 40px;">
+    
+        <div class="input-group copy-box">
+          <input 
+            type="text" 
+            id="textToCopy" 
+            class="form-control" 
+            value="b5ad4b70-44b4-4aca-b4a1-3c72b738568a" 
+            readonly
+          >
+
+          <button class="btn btn-primary" onclick="copiarTexto()">
+            📋
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Toast (mensagem de sucesso) -->
+      <div class="position-fixed bottom-0 end-0 p-3">
+        <div id="toastCopy" class="toast align-items-center text-bg-success border-0" role="alert">
+          <div class="d-flex">
+            <div class="toast-body">
+              Texto copiado com sucesso!
+            </div>
+            <button type="button" class="btn-close btn-close-white me-2 m-auto" data-bs-dismiss="toast"></button>
+          </div>
+        </div>
+      </div>
         
         <form class="d-flex ms-auto">
               <input type="text" id="search" placeholder="Pesquisar..." class="form-control mb-3">
@@ -297,6 +327,7 @@
 
       <script src="scripts/script.js"></script>
       <script src="scripts/form.js"></script>
+      <script src="scripts/copia.js"></script>
       
 </body>
 </html>
