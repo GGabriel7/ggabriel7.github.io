@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
 
   // 🔑 Inicializa EmailJS com sua chave
-  emailjs.init("ucyVSRDk_seOzq7dz");
+  emailjs.init("P6SpcH8NRqZzKyPSr");
 
   const form = document.getElementById("formConfirmacao");
   const quantidade = document.getElementById("quantidade");
