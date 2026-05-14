@@ -56,13 +56,6 @@
         "link": "https://mpago.la/33SUvso"
     },
     {
-        "id": 13,
-        "nome": "Sanduicheira",
-        "valor": 94.90,
-        "imagem": "img/sanduicheira.webp",
-        "link": "https://mpago.la/18bQDri"
-    },
-    {
         "id": 18,
         "nome": "Edredom Casal",
         "valor": 299.90,
@@ -75,13 +68,6 @@
         "valor": 649.90,
         "imagem": "img/microondas.jpg",
         "link": "https://mpago.la/1K1BMFb"
-    },
-    {
-        "id": 8,
-        "nome": "Forma de Vidro",
-        "valor": 84.90,
-        "imagem": "img/formaVidro.jpg",
-        "link": "https://mpago.la/2EyBrHb"
     },
     {
         "id": 2,
@@ -117,13 +103,6 @@
         "valor": 149.90,
         "imagem": "img/toalhas.jpg",
         "link": "https://mpago.la/1LfXTaA"
-    },
-    {
-        "id": 16,
-        "nome": "Organizador Multiuso",
-        "valor": 82.90,
-        "imagem": "img/organizador.jpg",
-        "link": "https://mpago.la/2CoeLjY"
     },
     {
         "id": 10,
