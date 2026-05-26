@@ -43,13 +43,6 @@
     },
     {
         "id": 1,
-        "nome": "Conjunto de Pratos",
-        "valor": 219.90,
-        "imagem": "img/pratos.png",
-        "link": "https://mpago.la/1ZCf9te"
-    },
-    {
-        "id": 1,
         "nome": "Cafeteira Elétrica",
         "valor": 179.90,
         "imagem": "img/cafeteira.jpg",
