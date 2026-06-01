@@ -1,31 +1,10 @@
 [
     {
-        "id": 12,
-        "nome": "Assadeira Grande",
-        "valor": 79.90,
-        "imagem": "img/assadeira.webp",
-        "link": "https://mpago.la/2tBRRPD"
-    },
-    {
-        "id": 15,
-        "nome": "Cesto de Roupa Suja",
-        "valor": 99.90,
-        "imagem": "img/cesto.jpg",
-        "link": "https://mpago.la/1rkWHjM"
-    },
-    {
         "id": 28,
         "nome": "Utensílios Cozinha",
         "valor": 104.90,
         "imagem": "img/kitCozinha.jpg",
         "link": "https://mpago.la/1eqhsTx"
-    },
-    {
-        "id": 29,
-        "nome": "Ventilador",
-        "valor": 205.90,
-        "imagem": "img/ventilador.jpg",
-        "link": "https://mpago.la/1MXB4iF"
     },
     {
         "id": 22,
@@ -68,13 +47,6 @@
         "valor": 729.90,
         "imagem": "img/fogao.png",
         "link": "https://mpago.la/2wJCrdg"
-    },
-    {
-        "id": 12,
-        "nome": "Lixeira Inox",
-        "valor": 94.90,
-        "imagem": "img/lixeira.jpg",
-        "link": "https://mpago.la/2mGr6XV"
     },
     {
         "id": 14,
