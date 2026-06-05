@@ -1,12 +1,5 @@
 [
     {
-        "id": 28,
-        "nome": "Utensílios Cozinha",
-        "valor": 104.90,
-        "imagem": "img/kitCozinha.jpg",
-        "link": "https://mpago.la/1eqhsTx"
-    },
-    {
         "id": 22,
         "nome": "Air Fryer",
         "valor": 399.90,
